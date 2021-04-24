@@ -10,7 +10,7 @@
 <a href="https://medium.com/@Akshaydj">
   <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-nbsp;
+
 - 🔭 I’m currently working on SOME PYTHON PROJECTS
 - 🌱 I’m currently learning FRONT-END DEVELOPMENT(WEBSITE DEVELPOMENT)
 - 👯 I’m looking to collaborate on BACK-END DEVELOPER(WEBSITE DEVELPOMENT)
