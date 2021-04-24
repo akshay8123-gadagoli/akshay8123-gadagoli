@@ -13,7 +13,7 @@
 
 
     
-    - 🔭 I’m currently working on SOME PYTHON PROJECTS
+- 🔭 I’m currently working on SOME PYTHON PROJECTS
 - 🌱 I’m currently learning FRONT-END DEVELOPMENT(WEBSITE DEVELPOMENT)
 - 👯 I’m looking to collaborate on BACK-END DEVELOPER(WEBSITE DEVELPOMENT)
 - 💬 Ask me about: TECHNICAL ISSUES,PYTHON-PROJECTS
