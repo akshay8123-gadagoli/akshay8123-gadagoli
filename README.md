@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/akshay-gadagoli-318996199">
   <img align="left" alt="Akshay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@Akshaydj">
+<a href="https://medium.com/@akshaydj8123">
   <img align="left" alt="Akshay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
