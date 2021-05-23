@@ -18,3 +18,4 @@
 - 👯 I’m looking to collaborate on BACK-END DEVELOPER(WEBSITE DEVELPOMENT)
 - 💬 Ask me about: TECHNICAL ISSUES,PYTHON-PROJECTS
 - 📫 How to reach me: MAIL ME @ akshaydj8123@gmail.com
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay8123-gadagoli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
