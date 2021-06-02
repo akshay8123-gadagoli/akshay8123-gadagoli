@@ -7,17 +7,13 @@
 I am Akshay gadagoli 🧔
 
 I live in Hubballi and studying 3RD YEAR Information Science engineering at KLE INSTITUTE OF TECHNOLOGY🏫.  I am currently Learning a front-end website developement💻and lokking to collaborate with Back-end developer 
-## 👯 Communities
-- Facebook Developer Circle - Core Team (2019-2020)
-- BEU Google Developer Student Club (DSC) - Core Team (2021 - ♾)
-- BEU Software Engineering Club - Core Team (2020 - ♾)
-- BEU Institute of Engineers and Everyone Else (IEEE)
+
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
 - Backend development using **Mongo,Node,Python**
 - Creating big and small projects using **Computer Vision (Python)**
-- Solving Data structure and algorithm questions in **Java and Python**
+
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
