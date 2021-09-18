@@ -6,7 +6,7 @@
  
 I am Akshay gadagoli 🧔
 
-I live in Hubballi and studying 3RD YEAR Information Science engineering at KLE INSTITUTE OF TECHNOLOGY🏫.  
+I live in Hubballi and studying 4TH YEAR Information Science engineering at KLE INSTITUTE OF TECHNOLOGY🏫.  
 I am currently Learning a front-end website developement💻and looking forward to collaborate with Back-end developer 
 
 ## ⚡ Technologies
