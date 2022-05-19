@@ -35,7 +35,7 @@ Talk to me about
     <img src="https://img.icons8.com/color/50/000000/java.png" alt="css3" width="40" height="40"/>
   </a> 
  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Program" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Program" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/4a90e2/git.png" alt="git" width="40" height="40"/> 
