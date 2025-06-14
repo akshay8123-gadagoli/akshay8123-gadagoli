@@ -11,9 +11,8 @@ I am currently Learning a front-end website developement💻and looking forward 
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **Mongo,Node,Python**
-- Creating big and small projects using **Computer Vision (Python)**
+- Front-end development using **HTML, CSS, JavaScript**
+- Backend development using **Java,Spring,Python**
 
 
 ## Hello World!! 🤔
