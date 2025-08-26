@@ -19,16 +19,17 @@ Talk to me about
 - 🎯 Check out my Instagram profile : [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/microbot_3.o/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/> 
-  </a>
+
 
   
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="40" height="40"/>
+  </a>
+   <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/> 
   </a>
  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
