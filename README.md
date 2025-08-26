@@ -4,20 +4,18 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/akshay8123-gadagoli) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/akshay-gadagoli-318996199) [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaydj8123@gmail.com)
  
-I am Akshay gadagoli 🧔
-
-I live in Hubballi and studying FINAL YEAR Information Science engineering at KLE INSTITUTE OF TECHNOLOGY🏫.  
-I am currently Learning a front-end website developement💻and looking forward to collaborate with Back-end developer 
+I'm a Senior Systems Engineer at Infosys with 2.8 years of experience in Java full-stack development. I specialize in building scalable, secure, and high-performance applications using the Spring Boot framework and microservices architecture. My passion lies in leveraging modern technologies to create impactful solutions and optimize system efficiency
 
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript**
-- Backend development using **Java,Spring,Python**
+- Backend development using **Java,SpringBoot,Python**
+  
 
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@akshaydj8123)
+
 - 🎯 Check out my Instagram profile : [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/microbot_3.o/)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
