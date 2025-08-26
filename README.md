@@ -32,7 +32,7 @@ Talk to me about
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/> 
   </a>
  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
