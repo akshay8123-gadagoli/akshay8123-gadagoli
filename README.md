@@ -25,9 +25,7 @@ Talk to me about
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000" alt="Maven" width="40" height="40"/> 
-  </a>
+
   
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="40" height="40"/>
