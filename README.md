@@ -27,10 +27,7 @@ Talk to me about
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/js/" target="_blank">
-    <img src="https://img.icons8.com/color/50/000000/java.png" alt="css3" width="40" height="40"/>
-  </a> 
+  </a>  
  <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Program" height="40"/> 
   </a> 
@@ -43,6 +40,13 @@ Talk to me about
  <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/2x/android-studio--v2.png" alt="Andriod Studio" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000" alt="Maven" width="40" height="40"/> 
+  </a>
+  
  
 ![AKshays github stats](https://github-readme-stats.vercel.app/api?username=akshay8123-gadagoli&show_icons=true&title_color=0299da&icon_color=ff5e00&text_color=2ee300&bg_color=fff0)
 
