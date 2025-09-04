@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/akshay8123-gadagoli) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/akshay-gadagoli-318996199) [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaydj8123@gmail.com)
  
-I'm a Senior Systems Engineer at Infosys with 2.8 years of experience in Java full-stack development. I specialize in building scalable, secure, and high-performance applications using the Spring Boot framework and microservices architecture. My passion lies in leveraging modern technologies to create impactful solutions and optimize system efficiency
+I'm a Senior Systems Engineer at Infosys with 2.9 years of experience in Java full-stack development. I specialize in building scalable, secure, and high-performance applications using the Spring Boot framework and microservices architecture. My passion lies in leveraging modern technologies to create impactful solutions and optimize system efficiency
 
 ## ⚡ Technologies
 Talk to me about
